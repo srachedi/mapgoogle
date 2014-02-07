@@ -1,0 +1,25 @@
+[
+{	
+	"nom":"Université Montpellier3",
+	"latitude":43.633155,
+	"longitude":3.868965,
+	"texte":"Universite Paul valery ",
+	"image":"image/um3.jpg"
+
+},
+{	
+	"nom":"Université Montpellier2",
+	"latitude":43.631385,
+	"longitude":3.861086,
+	"texte":"Faculté des sciences ",
+	"image":"image/um2.jpg"
+},
+{
+	"nom":"Université Montpellier1",
+	"latitude":43.603586,
+	"longitude":3.899588,
+	"texte":"Universite Montpellier 1 ",
+	"image":"image/um1.jpg"
+
+}
+]

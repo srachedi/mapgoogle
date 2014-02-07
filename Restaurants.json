@@ -1,0 +1,25 @@
+[
+{	
+	"nom":"Insensé",
+	"latitude":43.611409,
+	"longitude":3.880597,
+	"texte":"Restaurant Insensé ",
+	"image":"image/Insensé.jpg"
+
+},
+{	
+	"nom":"Les Gourmands",
+	"latitude":43.620373,
+	"longitude":3.887247,
+	"texte":"Restaurant Les Gourmands ",
+	"image":"image/Gourmands.jpg"
+},
+{
+	"nom":"Jardin Des Sens",
+	"latitude":43.619083, 
+	"longitude":3.886492,
+	"texte":"Restaurant Jardin des sens **** ",
+	"image":"image/jds.jpg"
+
+}
+]

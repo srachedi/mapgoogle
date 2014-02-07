@@ -1,0 +1,26 @@
+[
+{	
+	"nom":"Hotel De Paris",
+	"latitude":43.606787,
+	"longitude":3.881959,
+	"texte":"Hotel de paris de montpellier",
+	"image":"image/hoteldeparis.jpg"
+},
+
+{	
+	"nom":" Hotel Lapeyronie",
+	"latitude":43.631851,
+	"longitude":3.85461,
+	"texte":" Hotel Lapeyronie ** ",
+	"image":"image/hotellapeyronie.jpg"
+
+},
+{
+	"nom":"Jardin Des Sens",
+	"latitude":43.619083, 
+	"longitude":3.886492,
+	"texte":"hotel Jardin des sens **** ",
+	"image":"image/jds.jpg"
+
+}
+]

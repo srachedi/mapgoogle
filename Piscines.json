@@ -1,0 +1,26 @@
+[
+ {
+ 	"nom":"piscine_olympique_antigone", 
+	"latitude":43.607214, 
+	"longitude":3.892917, 
+	"texte":"piscine_antigone", 
+	"image":"image/piscine_antigone.jpg"
+	},
+
+{
+	"nom":"piscine_um2", 
+	"latitude":43.637349, 
+	"longitude":3.86761, 
+	"texte":"piscine_um2", 
+	"image":"image/piscine_um2.jpg"
+	},
+
+
+{
+	"nom":"piscine_alex_jany",
+	 "latitude":43.660297, 
+	 "longitude":3.926386, 
+	 "texte":"piscine_jacou",
+	  "image":"image/alex_jany.jpg"
+	}
+]

@@ -1,0 +1,41 @@
+html {height: 100%}
+
+body {
+	height: 100%; 
+	margin: 0px; 
+	padding:0px;}
+
+#side{
+	margin-top: 2em;
+	width:25%; 
+	float: left;
+}
+#content {
+	margin-top: 2em;
+	height: 80%; 
+	width: 70%;  
+	float: right;
+	/*background-color:red; */
+	}
+	 
+#map_canvas {
+
+	height: 90%;
+	width: 90%;
+	position: relative;
+}
+#form{
+	background: rgb(26,16,17);
+	float:right;
+}
+
+footer {
+    background: rgb(26,16,17);
+	float:right;
+	height: 7%;
+	width: 100%;
+    color: #a9f;
+    text-align:center;
+    border-radius:8px;
+    -moz-border-radius:8px; 
+}

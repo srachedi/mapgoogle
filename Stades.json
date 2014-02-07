@@ -1,0 +1,28 @@
+[
+
+{
+	"nom":"stade_de_la_mosson",
+	"latitude":43.622159,
+	"longitude":3.812233,
+	"texte":"stade de la mosson ",
+	"image":"image/stade_de_la_mosson.jpg"
+	},                                
+
+{
+	"nom":"stade_philippides",
+	 "latitude":43.619006,
+	"longitude":3.86944, 
+	"texte":"stade philippides ",
+	"image":"image/Stade_philippides_Montpellier.jpg"
+	},
+
+{
+	"nom":"stade_Yves-du-Manoir",
+	 "latitude":43.610350,
+	"longitude":3.877054,
+	 "texte":"stade_Yves-du-Manoir",
+	 "image":"image/sym.jpg"
+	 }
+
+
+ ]
